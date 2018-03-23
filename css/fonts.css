@@ -1,0 +1,34 @@
+@font-face {
+	font-family: "FiraSans-Regular";
+	src: url("../fonts/FiraSans-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal; 
+
+}
+
+@font-face {
+	font-family: "FiraSans-Light";
+	src: url("../fonts/FiraSans-Light_0.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal; 
+
+}
+
+@font-face {
+	font-family: "FiraSans-Medium";
+	src: url("../fonts/FiraSans-Medium_0.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal; 
+
+}
+
+@font-face {
+	font-family: "FiraSans-Bold";
+	src: url("../fonts/FiraSans-Bold_0.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal; 
+
+}
+
+
+
